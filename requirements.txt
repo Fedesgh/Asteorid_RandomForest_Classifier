@@ -2,4 +2,4 @@ scikit-learn
 pandas
 seaborn
 imblearn
-Flask
+numpy
