@@ -1,6 +1,5 @@
-sklearn
+scikit-learn
 pandas
-pandas
-pickle
 seaborn
 imblearn
+Flask
